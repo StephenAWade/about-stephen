@@ -1,0 +1,12 @@
+.snow-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.about-stephen {
+    text-align: center;
+    border: 3px solid blue;
+}
+
