@@ -10,3 +10,9 @@
     border: 3px solid blue;
 }
 
+tomcruise {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 3px solid blue;
+}
